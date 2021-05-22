@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav Chaudhary
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Gaurav Chaudhary](https://www.linkedin.com/in/itsgauravchaudhary//)
 
 Computer Science student, a solution-oriented individual with a variety of technical skills.
 - Strong problem-solving skills
@@ -18,8 +18,5 @@ With an extreme curiosity in Software Development and an entrepreneurial skillse
 Feel free to drop in a message if you need any help. I'm always thrilled to help. 
 
 <table><tr>
-
-[linkedin]: https://www.linkedin.com/in/itsgauravchaudhary/
-[Instagram]: https://www.instagram.com/itsgauravchaudhary
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
