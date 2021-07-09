@@ -19,4 +19,8 @@ Feel free to drop in a message if you need any help. I'm always thrilled to help
 
 <table><tr>
 
+#### Connect with me on - 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsgauravchaudhary/) 
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:gauravchaudhary3000@gmail.com)
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
