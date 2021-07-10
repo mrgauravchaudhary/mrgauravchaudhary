@@ -19,6 +19,13 @@ Feel free to drop in a message if you need any help. I'm always thrilled to help
 
 <table><tr>
 
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrgauravchaudhary&show_icons=true&locale=en&layout=compact" alt="mrgauravchaudhary" /></p>
+<br>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgauravchaudhary&show_icons=true&locale=en" alt="mrgauravchaudhary" /></p>
+<br>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgauravchaudhary&" alt="mrgauravchaudhary" /></p>
+  
+  
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsgauravchaudhary/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:gauravchaudhary3000@gmail.com)
