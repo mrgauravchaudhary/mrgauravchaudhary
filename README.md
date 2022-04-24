@@ -24,7 +24,7 @@ Feel free to drop in a message if you need any help. I'm always thrilled to help
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/itsgauravchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/harsh-srivastava-a03747166//" height="30" width="40" /></a>
-<a href="hhttps://www.instagram.com/itsgauravchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrgaurav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsgauravchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrgaurav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mrgaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrgaurav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshsri2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anuj2403" height="30" width="40" /></a>
 <!-- <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuj_rouniyar2403" height="30" width="40" /></a> -->
