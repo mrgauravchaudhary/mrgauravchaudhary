@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> Hi, I’m Gaurav Chaudhary](https://www.linkedin.com/in/itsgauravchaudhary//)
+# [Hi, I’m Gaurav Chaudhary](https://www.linkedin.com/in/itsgauravchaudhary//)
 
 Computer Science student, a solution-oriented individual with a variety of technical skills.
 - Strong problem-solving skills
